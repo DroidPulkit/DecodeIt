@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">DecodeIt</string>
+    <string-array name="fromLang">
+        <item>Auto Detect</item>
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Punjabi</item>
+        <item>Tamil</item>
+        <item>Urdu</item>
+        <item>German</item>
+        <item>French</item>
+    </string-array>
+    <string-array name="toLang">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Punjabi</item>
+        <item>Tamil</item>
+        <item>Urdu</item>
+        <item>German</item>
+        <item>French</item>
+    </string-array>
+    <string name="widget_text">Decode It is a translator app which supports translation of following languages: </string>
+    <string name="widget_text1">
+        • English\n
+        • Hindi\n
+        • Punjabi\n
+        • Tamil\n
+        • Urdu \n
+        • German \n
+        • French
+    </string>
+    <string name="etSearchQuery">Search Query</string>
+    <string name="tvFrom">From:</string>
+    <string name="tvTo">To:</string>
+    <string name="btnTranslate">Translate</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
