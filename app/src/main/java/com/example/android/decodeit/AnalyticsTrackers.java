@@ -7,6 +7,7 @@ package com.example.android.decodeit;
  * Time: 14:46
  */
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 
 import com.google.android.gms.analytics.GoogleAnalytics;
@@ -32,6 +33,7 @@ public final class AnalyticsTrackers {
         // Add more trackers here if you need, and update the code in #get(Target) below
     }
 
+    @SuppressLint("StaticFieldLeak")
     private static AnalyticsTrackers sInstance;
 
     public static synchronized void initialize(Context context) {

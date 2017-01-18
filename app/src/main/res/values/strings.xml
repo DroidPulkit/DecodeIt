@@ -19,7 +19,7 @@
         <item>German</item>
         <item>French</item>
     </string-array>
-    <string name="widget_text">Decode It is a translator app which supports translation of following languages: </string>
+    <string name="widget_text">The last searched word was: </string>
     <string name="widget_text1">
         • English\n
         • Hindi\n
@@ -34,4 +34,5 @@
     <string name="tvTo">To:</string>
     <string name="btnTranslate">Translate</string>
     <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="history">History</string>
 </resources>

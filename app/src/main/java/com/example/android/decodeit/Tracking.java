@@ -1,5 +1,6 @@
 package com.example.android.decodeit;
 
+import android.annotation.SuppressLint;
 import android.app.Application;
 
 import com.google.android.gms.analytics.GoogleAnalytics;
@@ -14,6 +15,7 @@ import com.google.android.gms.analytics.Tracker;
  * Time: 14:47
  */
 
+@SuppressLint("Registered")
 public class Tracking extends Application {
     public static final String TAG = Tracking.class.getSimpleName();
 
